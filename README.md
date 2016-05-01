@@ -24,7 +24,7 @@ get_file_age new
 
 ## Dependencies
 
-* Python or Perl.
+* This functions uses Perl or Python, depending on which one is available and in that order. 
 
 [slack-link]: https://fisherman-wharf.herokuapp.com
 [slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
