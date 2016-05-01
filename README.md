@@ -24,7 +24,7 @@ get_file_age new
 
 ## Dependencies
 
-* Python.
+* Python or Perl.
 
 [slack-link]: https://fisherman-wharf.herokuapp.com
 [slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
