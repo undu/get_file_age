@@ -22,6 +22,10 @@ get_file_age new
 1 # second
 ```
 
+## Dependencies
+
+* Python.
+
 [slack-link]: https://fisherman-wharf.herokuapp.com
 [slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
 [travis-link]: https://travis-ci.org/fisherman/get_file_age
