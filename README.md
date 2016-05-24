@@ -1,6 +1,8 @@
-[![Build Status][travis-badge]][travis-link]
-[![Slack][slack-badge]][slack-link]
+[slack-link]: https://fisherman-wharf.herokuapp.com
+[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
+[fisherman]: https://github.com/fisherman/fisherman
 
+[![Slack][slack-badge]][slack-link]
 
 # Get_file_age
 
@@ -24,10 +26,4 @@ get_file_age new
 
 ## Dependencies
 
-* This function uses Perl or Python, depending on which one is available and in that order. 
-
-[slack-link]: https://fisherman-wharf.herokuapp.com
-[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
-[travis-link]: https://travis-ci.org/fisherman/get_file_age
-[travis-badge]: https://img.shields.io/travis/fisherman/get_file_age.svg
-[fisherman]: https://github.com/fisherman/fisherman
+* Perl or Python, depending on which one is available (and in that order). 
